@@ -3,6 +3,7 @@
 ### Schematic
 
 ![16xLED](https://raw.githubusercontent.com/rm-hull/charlotte/master/lightbox/led-array16.png)
+
 http://led.linear1.org/led.wiz
 
 ### 3mm White LED, lf=20mA
