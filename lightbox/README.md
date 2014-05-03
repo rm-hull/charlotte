@@ -14,4 +14,6 @@ http://led.linear1.org/led.wiz
 * Reverse current, Vr=5V: 10uA (max)
 * Power Angle: 20-25deg
 
+### References
 
+* https://github.com/tvdzwan/hyperion/wiki/Ws2812b
